@@ -5,6 +5,8 @@
 - Works in [SIGMA-IT] (https://sigma-it.ru/)
 - Co-founder of Reglest5 Games.
 
+![Cortrano's GitHub stats](https://github-readme-stats.vercel.app/api?username=cortrano&show_icons=true&theme=dracula)
+
 
 <!--
 **Cortrano/Cortrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
