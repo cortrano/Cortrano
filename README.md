@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm a flutter developer!
+- I love gamedev (Unity, Godot
+- Works in [SIGMA-IT] (https://sigma-it.ru/)
+- Co-founder of Reglest5 Games.
+
+
 <!--
 **Cortrano/Cortrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
