@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a flutter developer!
-- I love gamedev (Unity, Godot
+- I love gamedev (Unity, Godot)
 - Works in [SIGMA-IT](https://sigma-it.ru/)
 - Co-founder of Reglest5 Games.
 
