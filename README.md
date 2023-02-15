@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I,m Ilya from Moscow, Russia 🏙️
-21 y.o.
+22 y.o.
 - Work: Flutter Developer at [SIGMA-IT](https://sigma-it.ru/)
 - Hobby: GameDev (Unity, Godot, Blender, Aseprite, Substance Painter/Designer/B2M/Alchemist)
 - Co-founder of Reglest5 Games (https://store.steampowered.com/app/769360/Harts/)
