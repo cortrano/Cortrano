@@ -2,10 +2,10 @@
 
 I,m Ilya from Moscow, Russia 🏙️
 22 y.o.
-- Work: Flutter Developer at [SIGMA-IT](https://sigma-it.ru/)
-- Hobby: GameDev (Unity, Godot, Blender, Aseprite, Substance Painter/Designer/B2M/Alchemist)
+- Full time indie game developer
 - Co-founder of Reglest5 Games (https://store.steampowered.com/app/769360/Harts/)
 - Participate in Game Jams
+- Ex Flutter Developer
 
 ![Cortrano's GitHub stats](https://github-readme-stats.vercel.app/api?username=cortrano&show_icons=true&theme=dracula)
 
