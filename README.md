@@ -2,8 +2,8 @@
 
 I,m Ilya from Moscow, Russia 🏙️
 23 y.o.
-- Indie Game Developer
 - Flutter Developer
+- Indie Game Developer
 - Co-founder of Reglest5 Games (https://store.steampowered.com/app/769360/Harts/)
 
 
