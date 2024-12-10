@@ -2,8 +2,8 @@
 
 I,m Ilya from Moscow, Russia 🏙️
 24 y.o.
-- ⚒️ I’m currently working on Sinful Gods game Using Godot engine
-- 👻 I’m also working on co-op horror game Using Godot
+- ⚒️ I’m currently working on Sinful Gods game using Godot engine
+- 👻 I’m also working on co-op horror game using Godot
 - 📱 Flutter Developer
 - 🤖 Indie Game Developer (Godot & Unity)
 - 🎮 Co-founder of Reglest5 Games (https://store.steampowered.com/app/769360/Harts/)
