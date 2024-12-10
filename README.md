@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 I,m Ilya from Moscow, Russia 🏙️
-23 y.o.
-- Flutter Developer
-- Indie Game Developer
-- Co-founder of Reglest5 Games (https://store.steampowered.com/app/769360/Harts/)
+24 y.o.
+- ⚒️ I’m currently working on Sinful Gods game Using Godot engine
+- 👻 I’m also working on co-op horror game Using Godot
+- 📱 Flutter Developer
+- 🤖 Indie Game Developer (Godot & Unity)
+- 🎮 Co-founder of Reglest5 Games (https://store.steampowered.com/app/769360/Harts/)
 
 
 ![Cortrano's GitHub stats](https://github-readme-stats.vercel.app/api?username=cortrano&show_icons=true&theme=dracula)
